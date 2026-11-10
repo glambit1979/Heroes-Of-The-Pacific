@@ -200,4 +200,4 @@ This repository serves as the official landing page for Heroes of the Pacific. T
 **Get the most recent version of Heroes of the Pacific today!** | Updated September 2023
 
 ---
-**Last updated:** 2026-11-10 10:41:55 UTC
+**Last updated:** 2026-11-10 18:25:46 UTC
